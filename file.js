@@ -1,4 +1,4 @@
-unction Devision(arg1, arg2)	{
+function Devision(arg1, arg2)	{
   	if (arg2 == 0)
     {
       throw "Devision by zero"
