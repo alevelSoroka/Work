@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\Work\University\University\bin\Debug\University.exe.config
+C:\Users\user\Desktop\Work\University\University\bin\Debug\University.exe
+C:\Users\user\Desktop\Work\University\University\bin\Debug\University.pdb
+C:\Users\user\Desktop\Work\University\University\obj\Debug\University.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Work\University\University\obj\Debug\University.exe
+C:\Users\user\Desktop\Work\University\University\obj\Debug\University.pdb
+F:\University\University\obj\Debug\University.csprojResolveAssemblyReference.cache
+F:\University\University\obj\Debug\University.exe
+F:\University\University\obj\Debug\University.pdb
